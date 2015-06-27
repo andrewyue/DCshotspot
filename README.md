@@ -22,3 +22,9 @@ The data was arranged in a calendar-style form using <a href="https://github.com
 The month to month comparisons are slightly biased due to the start and end points of the data set (~2/06 to ~7/13), but I do not believe the effect to impact the qualitative conclusion much.  It is quite clear that June and July are particularly active months.  This matches well with anecdotal accounts in <a href="http://www.nytimes.com/2013/09/01/opinion/sunday/weather-and-violence.html?_r=0">popular media</a href>.
 
 Also quickly apparent is the repeatable shape of the histograms.  It seems very likely that this is attributable to the fact that it is a particularly poor idea to open fire in broad daylight.  I have shaded the bars corresponding to the average daylight period for each month (as gathered from any number of daylight calculator websites), which does seem to account for the monthly variation (i.e. shifting and widening/shrinking) in the period of time in which gunshots are most frequent.
+
+<b>Future work</b>
+
+I'm curious to know if the "broad daylight" hypothesis could be extended to well-lit areas.  The location of street lights is <a href="http://opendata.dc.gov/datasets/6cb6520725b0489d9a209a337818fad1_90">publicly available</a> but I will need to think a bit about the best way to set up this problem.  This would be another problem that should be largely immune to the limited ShotSpotter coverage.
+
+This is just spitballing at this point, but if there is a clear correlation between shot locations and absence of street lights, it would be fairly straightforward to implement a machine learning algorithm to find optimal places to introduce additional lights.
