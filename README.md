@@ -19,6 +19,6 @@ The data was arranged in a calendar-style form using <a href="https://github.com
 
 <b>Conclusions</b>
 
-The month to month comparisons are slightly biased due to the start and end points of the data set (~2/06 to ~7/13), but I do not believe the effect to impact the qualitative conclusion much - June and July are particularly active months.  This matches well with anecdotal accounts in <a href="http://www.nytimes.com/2013/09/01/opinion/sunday/weather-and-violence.html?_r=0">popular media</a href>.
+The month to month comparisons are slightly biased due to the start and end points of the data set (~2/06 to ~7/13), but I do not believe the effect to impact the qualitative conclusion much.  It is quite clear that June and July are particularly active months.  This matches well with anecdotal accounts in <a href="http://www.nytimes.com/2013/09/01/opinion/sunday/weather-and-violence.html?_r=0">popular media</a href>.
 
 Also quickly apparent is the repeatable shape of the histograms.  It seems very likely that this is attributable to the fact that it is a particularly poor idea to open fire in broad daylight.  I have shaded the bars corresponding to the average daylight period for each month (as gathered from any number of daylight calculator websites), which does seem to account for the monthly variation (i.e. shifting and widening/shrinking) in the period of time in which gunshots are most frequent.
