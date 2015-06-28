@@ -15,7 +15,7 @@ The data was sorted into twelve data frames corresponding to the month that each
 
 The data was arranged in a calendar-style form using <a href="https://github.com/ateucher">Andy Teucher's</a> modified version of <a href="https://github.com/ateucher/useful_code/blob/master/R/multiplot.r">multiplot.R</a>.
 
-<img src="http://i.imgur.com/Y8EHmA7.jpg">
+<img src="http://i.imgur.com/nOCE0HK.jpg">
 
 <b>Conclusions</b>
 
