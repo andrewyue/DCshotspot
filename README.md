@@ -1,6 +1,8 @@
 # DCshotspot
 Some quick results from a little noodling about with the <a href="https://muckrock.s3.amazonaws.com/foia_files/WashingtonDC_Incidents_2006-2013_Raw_Data_2.xlsx">DC ShotSpotter data</a>.  Commands used to perform said noodling are found in <a href="https://github.com/andrewyue/DCshotspot/blob/master/DCCalendar.R">DCCalendar.R</a>.
 
+A rather fruitful and interesting discussion of the data can be found on <a href="http://www.reddit.com/r/dataisbeautiful/comments/3bedqj/gunshots_in_washington_dc_20062013_and_oakland_ca/">reddit</a>.
+
 <b>Data preparation</b>
 
 39065 events were recorded by the ShotSpotter system from Jan. 27, 2006 to Jun. 24, 2013.  The data was already nicely prepared in an Excel spreadsheet with columns for the DC Ward, timestamp, incident type (single or multiple gunshots), and coordinate information (accurate to 100 m) for each event.  Data was loaded into R.
